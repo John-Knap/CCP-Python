@@ -1,2 +1,3 @@
 import math
-V = float(input('Fluid Velocity (mi/hr): '))
+V = float(input('Input Fluid Velocity (mi/hr): '))
+L = float(input('Input Typical Length (in): '))
